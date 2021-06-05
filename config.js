@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'crush yêu dấu của giang à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'xem tiếp nè...',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'thích giang. <33',
-    btnNo: 'không thích giang :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
-    btnReply: 'Gửi cho em <3',
-    reply: 'tính nói yêu e chứ gì',
-    mess: 'em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'Tối nay anh qua đón em đi chơi nhé nhé!!!.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Hello bạn yêu à!',
+    introDesc: `Bạn vào đây để xem mặt
+    người yêu của mình đúng không?
+    Nhưng mỡ đấy mà húp.
+    Muốn  biết thì làm theo yêu cầu của mình nhé`,
+    btnIntro: 'muốn biết click vào đây',
+    title: 'Thầy huấn bảo là có làm ms có ăn 😙',
+    desc: 'Vậy lên mình cho bạn 2 lựa chọn dưới đây nhé ',
+    btnYes: 'Bắn tiền cho Giang để biết <3',
+    btnNo: 'Khônggg, xem chùa thôi:3',
+    question:'ối dồi ôi ngại thế 😙. Sao ai cũng muốn gửi mình tiền thế nhỉ. Viettin :108869938192 nha <33',
+    btnReply: 'Gửi yêu thương cho cho Giang <3',
+    reply: 'bạn muốn nói mình cute no1 đúng không?',
+    mess: 'Bạn đã hoàn thành tới đây rồi thì mình đành phải phô thôi. 😘😘',
+    messDesc: 'À lưu ý: bạn phải banking cho mình rồi thì link fb ms chuẩn nha k sai đó .',
+    btnAccept: 'click để xem fb ny mình <3',
+    messLink: 'https://www.facebook.com/profile.php?' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
